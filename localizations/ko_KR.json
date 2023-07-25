@@ -1567,6 +1567,7 @@
   "resize: from": "크기 조정: ",
   "resize_mode": "크기 조정 모드",
   "Resizing objective": "대상 크기 조정",
+  "Resolution:": "해상도:",
   "Resolutions:": "해상도:",
   "Response Msg From Python": "파이썬의 응답 메시지",
   "Restart debug": "디버그 재실행",
